@@ -1,16 +1,24 @@
 body {
-    text-align: center;
+    text-align: left;
     font-family: 'Open Sans', sans-serif;
+    background-image: url('../img/header.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
 
 body h1 {
   font-size: 45px;
   font-weight: bold;
-  margin-top: 10%;
+
   padding: 1%;
+
 }
 
 body p {
   font-style: italic;
   font-size: 25px;
+  padding: 1%;
+
 }
