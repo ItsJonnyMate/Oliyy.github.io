@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body h1 {
+  font-size: 45px;
+  font-weight: bold;
+  margin-top: 10%;
+  padding: 1%;
+}
+
+body p {
+  font-style: italic;
+  font-size: 25px;
+}
