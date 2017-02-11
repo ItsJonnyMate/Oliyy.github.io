@@ -1,20 +1,35 @@
 body {
-    text-align: left;
+    text-align: center;
     font-family: 'Open Sans', sans-serif;
     background-image: url('../img/header.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    color: black;
+    margin-top: 14%;
 }
 
 body h1 {
     font-size: 45px;
     font-weight: bold;
-    padding: 1%;
 }
 
 body p {
     font-style: italic;
     font-size: 25px;
-    padding: 1%;
+}
+
+.box {
+  width: 27%;
+  height: 250px;
+  margin: 0.2%;
+  padding: 17px;
+  box-sizing: border-box;
+  display: inline-block;
+  background: white;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 5px rgba(0,0,0,0.4);
+  cursor: pointer;
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 }
