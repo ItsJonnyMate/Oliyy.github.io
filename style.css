@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+head {
+  font-family: 'Pacifico', cursive;
+}
+
 body {
   background-color: black;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Pacifico', cursive;
 }
 
 #content {
