@@ -9,6 +9,10 @@ body {
   font-family: 'Pacifico', cursive;
 }
 
+h {
+  border-style: dashed;
+}
+
 #content {
   display: table;
   height: 400px;
